@@ -1,0 +1,13 @@
+.homeDiv{
+    width:70%;
+    background-color: rgb(221, 226, 226);
+    margin-left:auto;
+    margin-right:auto;
+}
+.cardDiv {
+    width:70%;
+    margin-left:auto;
+    margin-right:auto;
+    padding-top:10px;
+    height:100%;
+}

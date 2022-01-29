@@ -1,0 +1,13 @@
+.container {
+    bottom:0;
+    background-color: rgb(66, 64, 64);
+    width:100;
+}
+.navbar-text {
+    color:white;
+    margin-left:auto;
+    margin-right:auto;
+    padding-bottom:0;
+    margin-bottom:0;
+    font-size:small;
+}
